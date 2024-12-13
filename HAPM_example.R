@@ -6,11 +6,11 @@ library(glmnet)
 library(stringr)
 library(igraph)
 
-source("./functions.R")
-devtools::load_all("./bsglm/")
+source("./Code/functions.R")
+devtools::load_all("./Code/bsglm/")
 
 # Build (league) Design Matrix ----
-file <- "./NBA-PbP-Sample-Dataset.csv"
+file <- "./Data/NBA-PbP-Sample-Dataset.csv"
 
 df <- read.csv(file)
 
