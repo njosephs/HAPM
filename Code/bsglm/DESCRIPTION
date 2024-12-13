@@ -1,0 +1,14 @@
+Package: bsglm
+Title: Bayesian Inference and Sampling for Generalized Linear Models
+Version: 0.1
+Authors@R:
+    person(given = "Luis",
+           family = "Carvalho",
+           role = c("aut", "cre"),
+           email = "lecarval@math.bu.edu")
+Description: Provides routines for Bayesian inference based on (i) maximum a posteriori (MAP) estimation and (ii) MCMC sampling.
+License: `use_mit_license()`
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
