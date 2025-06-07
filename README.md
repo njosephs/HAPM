@@ -2,7 +2,7 @@
 
 This repository contains code supporting the text "Hypergraph adjusted plus-minus"
 
-[https://arxiv.org/abs/2403.20214](https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0057/html)
+https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0057/html
 
 ## Code
 
